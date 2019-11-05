@@ -1,0 +1,4 @@
+Usage:
+        Clear MACE: ts.exe -m <file>
+        Clone MACE: ts.exe -c <source file> <dest file>
+        Print help: ts.exe --help
